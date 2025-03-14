@@ -2,7 +2,7 @@
 ### 👋 Welcome to My GitHub!  
 
 
-🌟 Data Analysis | Visualization | Business Intelligence Professional | Data science
+## Data Analysis | Visualization | Business Intelligence Professional | Data science
 
 I’m **Aduga**, a Data Analyst passionate about transforming raw data into meaningful insights. My expertise lies in data analytics, business intelligence, and machine learning, enabling me to uncover trends, optimize decision-making, and drive business impact.  
 
