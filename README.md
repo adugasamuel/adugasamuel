@@ -17,6 +17,5 @@ I enjoy solving complex problems, working with data-driven strategies, and conti
 
 📫 **Let’s Connect!**  
 [LinkedIn Profile] |
-### My Portfolio backhand_index_pointing_down:
-U+1F447
+### My Portfolio U+1F44F
 
