@@ -10,10 +10,10 @@ With experience in HR analytics, sales analysis,Retail, customer churn Analysis 
 I enjoy solving complex problems, working with data-driven strategies, and continuously learning new technologies to enhance my analytical capabilities.  
 
 ### 🛠️ Skills & Expertise  
-- **Data Analysis & Visualization** – Power BI, Matplotlib & Seaborn.  
-- **SQL & Database Management** – Querying, Data Cleaning, and Optimization  
-- **Business Intelligence & Reporting** – Extracting insights to drive strategic decisions. 
-- **Machine Learning & Predictive Modeling** – Python (Scikit-learn, Pandas  & NumPy) 
+- Data Analysis & Visualization – Power BI, Matplotlib & Seaborn.  
+- SQL & Database Management – Querying, Data Cleaning, and Optimization  
+- Business Intelligence & Reporting – Extracting insights to drive strategic decisions. 
+- Machine Learning & Predictive Modeling – Python (Scikit-learn, Pandas  & NumPy) 
 
 🚀 **Explore my projects and feel free to connect!**  
 
