@@ -16,6 +16,7 @@ I enjoy solving complex problems, working with data-driven strategies, and conti
 🚀 **Explore my projects and feel free to connect!**  
 
 📫 **Let’s Connect!**  
-[LinkedIn Profile] |
-### My Portfolio U+1F44F
+[LinkedIn Profile] | 
+
+#### My Portfolio 💼 👇
 
