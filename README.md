@@ -15,9 +15,8 @@ I enjoy solving complex problems, working with data-driven strategies, and conti
 
 🚀 **Explore my projects and feel free to connect!**  
 
-📫 **Let’s Connect!**  
-[LinkedIn](www.linkedin.com/![LinkedinGIF](https://github.com/user-attachments/assets/6a87f17c-9d4d-4814-9509-ec82d7f1cc94)
-in/aduga-emmanuel-170396132)🔵 |
+📫 ***Let’s Connect!***  
+[LinkedIn](http//:www.linkedin.com/in/aduga-emmanuel-170396132)🔵 |
 
 #### My Portfolio 💼 👇
 
