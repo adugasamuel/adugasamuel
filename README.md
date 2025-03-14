@@ -3,7 +3,7 @@
 
 I’m **Aduga**, a **Data Analyst & Data Scientist** passionate about transforming raw data into meaningful insights. My expertise lies in data analytics, business intelligence, and machine learning, enabling me to uncover trends, optimize decision-making, and drive business impact.  
 
-With experience in HR analytics, sales analysis,Retail, customer churn Analysis and predictive modeling, I specialize in developing **interactive dashboards, data-driven reports, and advanced analytical models using tools like Python, SQL and Power BI .  
+With experience in HR analytics, sales analysis,Retail, customer churn Analysis and predictive modeling, I specialize in developing **interactive dashboards**, data-driven reports, and advanced analytical models using tools like Python, SQL and Power BI .  
 
 I enjoy solving complex problems, working with data-driven strategies, and continuously learning new technologies to enhance my analytical capabilities.  
 
@@ -17,6 +17,6 @@ I enjoy solving complex problems, working with data-driven strategies, and conti
 
 📫 ***Let’s Connect!*** 
 
-[LinkedIn](https://www.linkedin.com/in/aduga-emmanuel-170396132/)
-### My Portfolio 💼 👇
+ [LinkedIn](https://www.linkedin.com/in/aduga-emmanuel-170396132/)
+ ### My Portfolio 💼 👇
 
