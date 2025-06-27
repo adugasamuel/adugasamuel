@@ -5,18 +5,18 @@
 ### Data Analysis | Visualization | Business Intelligence Professional | Data science
 
 Hi,
-I’m **Aduga**, a Data Analyst passionate about transforming raw data into meaningful insights. My expertise lies in data analytics, business intelligence, and machine learning, enabling me to uncover trends, optimize decision-making, and drive business impact.  
+I’m **Aduga**, a Data Analyst passionate about transforming raw data into meaningful insights. My expertise lies in data analytics, business intelligence, enabling me to uncover trends, optimize decision-making, and drive business impact.  
 
-With experience in HR analytics, sales analysis,Retail and customer churn Analysis, I specialize in developing interactive dashboards, data-driven reports, and advanced analytical models using tools like Python, SQL and Power BI.  
+With experience in Sales, HR analytics, Retail analysis, churn Analysis and others, I specialize in developing interactive dashboards, data-driven reports, and advanced analytical tailored to meet your specific business goals and objectives using tools Power BI, Execel and Python.  
 
 I enjoy solving complex problems, working with data-driven strategies, and continuously learning new technologies to enhance my analytical capabilities.  
 
  ### 🛠️ Skills & Expertise  
  
-- Data Analysis & Visualization – Power BI, Matplotlib & Seaborn.  
+- Data Analysis & Visualization – Power BI, Microsoft Excel, Matplotlib & Seaborn.  
 - SQL & Database Management – Querying, Data Cleaning, and Optimization. 
 - Business Intelligence & Reporting – Extracting insights to drive strategic decisions. 
-- Machine Learning & Predictive Modeling – Python (Scikit-learn, Pandas  & NumPy) 
+- AI | Machine learning 
 
 🚀 **Explore my projects and feel free to connect!**  
 
