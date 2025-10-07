@@ -1,10 +1,4 @@
-
 ## 👋 Welcome to My GitHub!  
-
-
-### Data Analysis | Visualization | Business Intelligence Professional | Data science
-
-# 👋 Welcome to My GitHub!  
 ### **Data Analysis | Business Intelligence | Data Visualization | Data Science**
 
 Hi, I’m **Aduga**, a **Data Analyst** passionate about transforming complex data into actionable insights that empower strategic business decisions.  
@@ -49,7 +43,7 @@ Explore my repositories to see real-world examples of my work, including:
 - **Sales Performance Dashboards**  
 - **HR Analytics Reports**  
 - **Retail Data Analysis**  
-- **Customer Churn Prediction** (in progress)  
+- **Customer Churn Prediction**
 
 Each project showcases my ability to translate raw data into clear, actionable insights through visualization and analytics.
 
