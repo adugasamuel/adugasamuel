@@ -50,17 +50,6 @@ Each project demonstrates my ability to translate raw data into impactful insigh
 
 ---
 
-### 🌱 Continuous Learning  
-
-I’m committed to continuous professional development and currently expanding my technical and analytical toolkit in areas such as:  
-- **Advanced Power BI Techniques & DAX Optimization**  
-- **Python for Data Science & Machine Learning**  
-- **Predictive Modeling & Forecasting**  
-- **Cloud-Based BI Solutions (Azure, Google Data Studio)**  
-- **Data Storytelling & Insight Communication**
-
----
-
 ### 📫 Let’s Connect!  
 
 I’m always open to networking, collaboration, and discussing data-driven solutions.  
@@ -68,7 +57,7 @@ Let’s connect and explore how data can transform business outcomes!
 
 - 💼 [LinkedIn](#)  
 - 🌐 [Portfolio Website](#)  
-- 📧 Reach out via email: *[YourEmail@example.com]*  
+- 📧 Reach out via email: *[adugasamuel@gmail.com](adugasamuel@gmail.com)*  
 
 ---
 
