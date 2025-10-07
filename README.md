@@ -13,7 +13,7 @@ I enjoy solving complex problems, working with data-driven strategies, and conti
 
  ### 🛠️ Skills & Expertise  
  
-- Data Analysis & Visualization – Power BI, Microsoft Excel, Matplotlib & Seaborn.  
+- Data Analysis & Visualization – Power BI, Microsoft Excel,Pandas, Matplotlib & Seaborn.  
 - SQL & Database Management – Querying, Data Cleaning, and Optimization. 
 - Business Intelligence & Reporting – Extracting insights to drive strategic decisions. 
 - AI | Machine learning 
