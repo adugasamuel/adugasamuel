@@ -53,15 +53,6 @@ Explore my repositories to see real-world examples of my work, including:
 
 Each project showcases my ability to translate raw data into clear, actionable insights through visualization and analytics.
 
----
-
-### 🌱 Continuous Learning  
-
-I’m constantly enhancing my technical toolkit by learning:  
-- **Advanced Power BI Techniques**  
-- **Python for Data Science & Machine Learning**  
-- **Predictive Modeling & Forecasting**  
-- **Cloud-Based BI Solutions** (Azure & Google Data Studio)  
 
 ---
 
@@ -71,7 +62,7 @@ I’m always open to collaboration, learning, and sharing ideas with other data 
 
 - 💼 [LinkedIn](#)  
 - 🌐 [Portfolio Website](#)  
-- 📧 Reach out via email: *[YourEmail@example.com]*  
+- 📧 Reach out via email: *[adugasamuel@gmail.com]*  
 
 ---
 
