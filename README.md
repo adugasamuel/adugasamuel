@@ -8,10 +8,10 @@ I specialize in **data analytics**, **business intelligence**, and **reporting s
 
 ### 💡 About Me  
 
-I’m a results-oriented data professional experienced in deriving insights from diverse business domains including **Sales**, **HR**, **Retail**, and **Customer Analytics** — yet I’m not limited to these areas.  
-I’m highly adaptable and always eager to apply analytical thinking to **new industries and data-driven challenges**.  
+I’m a results-oriented data professional experienced in deriving insights from diverse business domains including **Sales**, **HR**, **Retail**, and **Customer Analytics** , yet I’m not limited to these areas.  
+I’m highly adaptable and always eager to apply analytical thinking to new industries and data-driven challenges.  
 
-I design and develop **interactive dashboards**, **data-driven reports**, and **advanced analytics solutions** tailored to meet specific business objectives.  
+I design and develop interactive dashboards, data-driven reports, and advanced analytics solutions tailored to meet specific business objectives.  
 
 Currently, I’m enhancing my expertise in **Machine Learning** and **Predictive Analytics**, focusing on applying statistical and data science techniques to anticipate trends, improve performance, and support proactive decision-making.
 
@@ -57,8 +57,8 @@ Let’s connect and explore how data can transform business outcomes!
 
 - 💼 [LinkedIn](#)  
 - 🌐 [Portfolio Website](#)  
-- 📧 Reach out via email: *[adugasamuel@gmail.com](adugasamuel@gmail.com)*  
+- 📧 Reach out via email: **[adugasamuel@gmail.com](adugasamuel@gmail.com)**  
 
 ---
 
-⭐ *“Turning data into insights, and insights into action.”*  
+⭐ *Turning data into insights, and insights into action.*  
