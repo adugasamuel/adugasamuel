@@ -2,7 +2,7 @@
 ### **Data Analysis | Business Intelligence | Data Visualization | Data Science**
 
 Hi, I’m **Aduga**, a **Data Analyst** passionate about transforming raw data into actionable insights that drive business growth and strategic decision-making.  
-I specialize in **data analytics**, **business intelligence**, and **reporting solutions**, with strong expertise in leveraging tools such as **Power BI**, **Excel**, and **Python** to turn complex data into meaningful visual stories.
+I specialize in **data analytics**, **business intelligence**, and **reporting solutions**, with strong expertise in leveraging tools such as **Power BI**, **Excel**,**SQL** and **Python** to turn complex data into meaningful visual stories.
 
 ---
 
