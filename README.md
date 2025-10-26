@@ -56,7 +56,7 @@ I’m always open to networking, collaboration, and discussing data-driven solut
 Let’s connect and explore how data can transform business outcomes!
 
 - 💼 [LinkedIn](#)  
-- 🌐 [Portfolio Website](https://adugasamuel.github.io/))  
+- 🌐 [Portfolio Website](https://adugasamuel.github.io/)
 - 📧 Reach out via email: **[adugasamuel@gmail.com](adugasamuel@gmail.com)**  
 
 ---
